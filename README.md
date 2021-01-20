@@ -1,2 +1,2 @@
 # carbike
-This is AI app to judge car or bike.
+This is AI app to judge image car or bike.
